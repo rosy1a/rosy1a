@@ -20,4 +20,4 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rosy1a&theme=flat&column=7)](https://github.com/RosaStriano/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rosy1a&theme=gruvbox&column=7)](https://github.com/RosaStriano/github-profile-trophy)
