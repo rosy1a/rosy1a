@@ -1,3 +1,7 @@
+![Rosa Striano - Cybersecurity & Data Science](https://your-image-url.com/banner.png)
+
+
+
 ## 👩‍💻 Rosa Striano  
 
 🎓 **Cybersecurity student** at **Cyber Hackademy Unina**  
