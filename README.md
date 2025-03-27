@@ -17,7 +17,3 @@
 🚀 Always looking for new challenges and opportunities to grow!  
 
 📫 **Reach out on GitHub for collaborations or suggestions!**  
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rosy1a&theme=onedark&column=7)](https://github.com/RosaStriano/github-profile-trophy)
